@@ -1,16 +1,33 @@
-## Hi there 👋
+# Marcos Bezerra
 
-<!--
-**Marcos5252/Marcos5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em backend com Java + Spring Boot, criando aplicações funcionais, organizadas e escaláveis.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- ☕ Estudando arquitetura backend e desenvolvimento web
+- ⚙️ Interesse em sistemas financeiros, SaaS e automações
+- 🐧 Usuário Linux/Fedora
+- 🎸 Guitarrista e fã de rock/metal
+- 🎮 RimWorld, Fallout e projetos nerds em geral
+
+## Tecnologias
+
+- Java
+- Spring Boot
+- Angular
+- SQL
+- Git
+- Linux
+
+## Atualmente
+
+- Desenvolvendo projetos full stack
+- Estudando boas práticas de backend
+- Aprendendo mais sobre arquitetura e performance
+
+## Filosofia
+
+> “Software bom é o que resolve problemas sem complicar a vida de quem usa.”
+
+---
